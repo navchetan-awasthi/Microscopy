@@ -9,3 +9,7 @@ Prateek Katare, Navchetan Awasthi, Aravind Venukumar, Sai Siva Gorthi, “Low-co
 
 
 Matlab Codes: (requires guided filter toolbox and matlab)
+
+The main file is the demo code.
+Please loda the image and then run the code.
+The dependencies are included in the package.
