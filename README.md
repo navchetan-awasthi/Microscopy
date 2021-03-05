@@ -8,4 +8,4 @@ Prateek Katare, Navchetan Awasthi, Aravind Venukumar, Sai Siva Gorthi, “Low-co
 ***Please contact if you find any mistakes or if you need any help regarding the codes.
 
 
-Matlab Codes: (requires guided filter toolbox or matlab)
+Matlab Codes: (requires guided filter toolbox and matlab)
