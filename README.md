@@ -20,5 +20,7 @@ Please cite the following papers if you find the codes helpful:
 Matlab Codes: (requires guided filter toolbox and matlab)
 
 The main file is the demo code.
+
 Please load the image and then run the demo code.
+
 The dependencies are included in the package.
